@@ -10,7 +10,7 @@
 <br>
 <div>
   <footer>
-    <p> Covered template for <a href="https://www.w3schools.com/">W3schools</a>, by <a href="https://github.com/ddonggun">DonggunCheon</a></p>
+    <p style="text-align: center;"> Covered template for <a href="https://www.w3schools.com/">W3schools</a>, by <a href="https://github.com/ddonggun">DonggunCheon</a></p>
   </footer>
 </div>  
 </body>
